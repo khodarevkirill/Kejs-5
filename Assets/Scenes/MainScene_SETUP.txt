@@ -1,0 +1,1 @@
+Create a new Unity scene named Main.unity and follow README steps.
